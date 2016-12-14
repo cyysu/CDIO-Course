@@ -1,0 +1,1 @@
+copy ..\..\Output\SpeedAdj.hex ..\SpeedAdjCopy.hex
